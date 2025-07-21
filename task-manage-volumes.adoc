@@ -1,0 +1,44 @@
+---
+sidebar: sidebar 
+permalink: task-manage-volumes.html 
+keywords: google cloud netapp volumes, view volumes 
+summary: 设置工作环境后，您可以查看您的 Google Cloud NetApp卷。 
+---
+= 管理现有卷
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以查看现有卷以及对其执行的任何操作。
+
+*必需的BlueXP角色* 组织管理员、文件夹或项目管理员，或Google Cloud NetApp Volumes管理员角色。  https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解所有服务的 BlueXP 访问角色"^] 。
+
+
+
+== 查看卷
+
+查看卷的详细信息，例如其名称、数量、区域、容量、已用容量和存储池。
+
+.步骤
+. 点击*进入工作环境*打开工作环境。
+. 要查看表中的特定卷，请选择image:icon_search.png["包含三个点的图标。"]并输入卷名称。
+. 要查看与卷相关的任何标签，请在“*标签*”列中选择“*查看*”。
+
+
+
+
+== 查看审核日志
+
+您可以在时间线中查看对卷执行的所有操作。
+
+.步骤
+. 在右上角，选择*设置* > *时间线*。
+
+
+.结果
+在*审计日志*表中，您可以查看对卷执行的任何操作。

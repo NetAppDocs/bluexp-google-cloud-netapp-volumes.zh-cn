@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task-assign-role.html 
+keywords: assign admin role, admin, admin google cloud netapp volumes 
+summary: 您必须为Google Cloud NetApp Volumes的用户分配管理员角色，然后他们才能发现BlueXP中的卷。 
+---
+= 分配Google Cloud NetApp Volumes管理员角色
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您必须为Google Cloud NetApp Volumes的用户分配管理员角色，然后他们才能发现BlueXP中的卷。
+
+.步骤
+. 在BlueXP  控制台的右上角，选择image:icon-settings-option.png["右上角的设置图标。"]>*身份和访问管理*。
+. 在“成员”页面中，找到表格中的成员，选择image:icon-action.png["一个由三个并排点组成的图标"]然后选择*添加角色*。
+. 要添加角色、请完成对话框中的步骤：
++
+** *选择组织、文件夹或项目*：选择成员应具有权限的资源层次结构级别，然后单击*接受*
++
+选择组织或文件夹授予成员权限
+
+** *选择类别*：选择角色类别。link:reference-iam-predefined-roles.html["了解访问角色"^](英文)
+** 选择*角色*：选择 GCNV 角色并单击*接受*。
+** 单击“添加新角色”。
+
+
+
+
+link:reference-iam-predefined-roles.html["了解访问角色"^](英文)

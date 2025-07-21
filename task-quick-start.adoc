@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: task-quick-start.html 
+keywords: set up google cloud netapp volumes, quick start 
+summary: 通过设置 Google Cloud 然后创建工作环境来开始使用Google Cloud NetApp Volumes 。 
+---
+= 入门工作流
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+通过设置 Google Cloud，然后创建工作环境来开始使用Google Cloud NetApp Volumes 。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一个"] link:task-set-up-gcnv.html["设置Google Cloud NetApp Volumes"]
+[role="quick-margin-para"]
+从 Google 创建一个服务帐户。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["两个"] link:task-create-working-env.html["添加工作环境"]
+[role="quick-margin-para"]
+从BlueXP中，单击 *添加工作环境* > *Google Cloud Platform* > * Google Cloud NetApp Volumes* > *发现*，然后提供有关服务帐户和 Google Cloud 项目的详细信息。

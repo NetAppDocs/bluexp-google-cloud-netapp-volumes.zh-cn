@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="71d0ee5d411b8f72f571401cdab213ac" category="doc">BlueXP支持Google Cloud NetApp Volumes</block>
+  <block id="775e62d1bed90f08196ce9665fe3b625" category="paragraph">您现在可以直接从BlueXP管理Google Cloud NetApp Volumes ：</block>
+  <block id="bfcabace496e3d26dcf080c810ecd405" category="list-text">添加工作环境。</block>
+  <block id="ee07da92eddb189dc56635b6831f1856" category="list-text">查看您的卷。</block>
+  <block id="f842a501bbdfa7f71ac344c36591a1b8" category="list-text">删除您的工作环境。</block>
+  <block id="811a937f1bd1c87a00074062fd769216" category="summary">Google Cloud NetApp Volumes使企业能够在 Google 中迁移和运行其性能密集型和延迟敏感的核心业务关键型应用程序，而无需针对云进行重构。</block>
+  <block id="d4ea9d22a78aa0f221f5114fcccba7f2" category="doc">了解Google Cloud NetApp Volumes</block>
+  <block id="274b1c082fef0934ab0e0304a04e639a" category="paragraph">Google Cloud NetApp Volumes是一种完全托管的基于云的数据存储服务、可提供高级数据管理功能和高度可扩展的性能。</block>
+  <block id="9fdfd6242709fbbed5b8f0dbd226ee4c" category="paragraph">NetApp Volumes 有助于加快部署时间、管理工作负载和应用程序以及将工作负载迁移到云端，同时保持本地存储的性能和功能。</block>
+  <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">功能</block>
+  <block id="387fd2aaaa87adcc276a6ea1c2466214" category="list-text">更快、更高效地运行企业应用程序。</block>
+  <block id="5fe1f83d1eb232189761cc9a9e030341" category="list-text">将云存储成本降低高达 90%。</block>
+  <block id="fc5d7ec9436df0608880c6c151d6c723" category="list-text">满足正常运行时间、可用性和安全性的要求。</block>
+  <block id="32fa45782061cd6846644c59eab5aae0" category="list-text">支持 NFS、SMB 和多协议环境。</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
+  <block id="fd2fe087792cd9f346c50f222f509f01" category="paragraph">Google Cloud NetApp Volumes创建的卷将从您的服务订阅中扣除费用，而不是通过BlueXP扣除。</block>
+  <block id="9f553afcda69492bb7dc6a50d3049912" category="paragraph">从BlueXP发现Google Cloud NetApp Volumes区域或卷无需付费。</block>
+  <block id="8c4b25218155a1fdb972f4169855d04f" category="section-title">支持的区域</block>
+  <block id="c70f394ded6ddc37b0087f6416c6ab0e" category="inline-link">查看受支持的Google Cloud NetApp Volumes区域</block>
+  <block id="d66d1ffdbede5eeb67a7877ba239591e" category="paragraph"><block ref="d66d1ffdbede5eeb67a7877ba239591e" category="inline-link-rx"></block></block>
+  <block id="20c404f3ca0633629eee9b1b4ccd6737" category="section-title">获取帮助</block>
+  <block id="38e4a919380fe686986d948187a51746" category="paragraph">如需技术支持，请通过 Google Cloud 门户提交请求。选择您的 Google Cloud 订阅，并在“存储”下选择“Google Cloud NetApp Volumes”服务。填写所需信息。</block>
+  <block id="b0d5958387777e6e2d485c0264f0b2d7" category="paragraph">使用BlueXP聊天来询问有关BlueXP中Google Cloud NetApp Volumes操作的一般问题。</block>
+  <block id="b9acc0622532bd3d3be29dc05101ecb0" category="paragraph">有关Google Cloud NetApp Volumes的一般问题，请发送电子邮件至 NetApp 的 Google Cloud 团队 gcinfo@netapp.com。</block>
+  <block id="bd32907910f13f745e4c4ad31b8b85f3" category="inline-link-macro">获取支持</block>
+  <block id="0dafa59a06c11c5d19eae05360cbf6cf" category="paragraph">对于与云卷相关的技术问题，您可以从 Google Cloud Console 创建技术支持案例。有关详细信息、请参见。 <block ref="8f708cce2bd6518bab5a8e6f48de2399" category="inline-link-macro-rx"></block></block>
+  <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="section-title">相关链接</block>
+  <block id="471bdb0aa2d84f6d114789368ffc1cc1" category="inline-link">Google Cloud NetApp Volumes文档</block>
+  <block id="4783fc8cfe1d67f67a21a8d696efba01" category="list-text"><block ref="4783fc8cfe1d67f67a21a8d696efba01" category="inline-link-rx"></block></block>
+  <block id="db75f0488f4e9bbad86a02da9a572896" category="inline-link">BlueXP复制和同步文档</block>
+  <block id="bee3f8c9efef3b37d46180b5f2f33e22" category="list-text"><block ref="bee3f8c9efef3b37d46180b5f2f33e22" category="inline-link-rx"></block></block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">法律声明提供对版权声明、商标、专利等的访问。</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版权</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商标</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 徽标和 NetApp 商标页面上列出的标记是 NetApp 、 Inc. 的商标。其他公司和产品名称可能是其各自所有者的商标。</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">专利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">有关 NetApp 拥有的专利的最新列表，请访问：</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隐私政策</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">开放源代码</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">BlueXP通知</block>
+  <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
+  <block id="46a16a87c9a7094594706aec2c316b1f" category="summary">您必须为Google Cloud NetApp Volumes的用户分配管理员角色，然后他们才能发现BlueXP中的卷。</block>
+  <block id="dd71e40069f8d28227a57c7c7b96cf9c" category="doc">分配Google Cloud NetApp Volumes管理员角色</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
+  <block id="18410f1a8f7ef8e08d8424b98e8f8b7d" category="inline-image-macro">右上角的设置图标。</block>
+  <block id="ad5c01412c25878a0856ba167676d169" category="list-text">在BlueXP  控制台的右上角，选择<block ref="f4a9680dc3269d61ad52545906cc850a" category="inline-image-macro-rx" type="image"></block>&gt;*身份和访问管理*。</block>
+  <block id="b0afff19aa3343a6f86619d833dbd316" category="inline-image-macro">一个由三个并排点组成的图标</block>
+  <block id="a4e257e81b6cc81f31c7105baf6f8400" category="list-text">在“成员”页面中，找到表格中的成员，选择<block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block>然后选择*添加角色*。</block>
+  <block id="5f4f2140800f25dcab7691933bfbdbdb" category="list-text">要添加角色、请完成对话框中的步骤：</block>
+  <block id="1ecba737086562de0c9a665208880348" category="list-text">*选择组织、文件夹或项目*：选择成员应具有权限的资源层次结构级别，然后单击*接受*</block>
+  <block id="2000548d1a967f006f86a93492ac094f" category="paragraph">选择组织或文件夹授予成员权限</block>
+  <block id="0e6e1e539b578c2b0388d566d8ae4e15" category="inline-link-macro">了解访问角色</block>
+  <block id="16dc306cdff4c0ae32c903818b903eea" category="list-text">*选择类别*：选择角色类别。<block ref="a51247ccde87e175c686e81825c9f657" category="inline-link-macro-rx"></block>(英文)</block>
+  <block id="b775c07b408fbc20af51e7858ab84ee4" category="list-text">选择*角色*：选择 GCNV 角色并单击*接受*。</block>
+  <block id="2517380aae5c1f54daeeb4078c9a7f26" category="list-text">单击“添加新角色”。</block>
+  <block id="c9517c84e65e66feb51a457adecedd55" category="paragraph"><block ref="a51247ccde87e175c686e81825c9f657" category="inline-link-macro-rx"></block>(英文)</block>
+  <block id="f3585c61662b03a3f4563f841d2297fe" category="summary">在BlueXP中添加 Netapp Volumes for Google Cloud 工作环境以查看和管理卷。</block>
+  <block id="c6271395f4ef3fdf77347d8be7d3c766" category="doc">添加Google Cloud NetApp Volumes工作环境</block>
+  <block id="cbc669f748ed044432dcc549329eb2cc" category="paragraph">设置服务帐户后，在BlueXP中添加Google Cloud NetApp Volumes工作环境，以便您可以查看您的Google Cloud NetApp Volumes实例。</block>
+  <block id="0c18de35117799b5dc1a8e46c08a12f2" category="paragraph">此订阅的云卷显示在工作环境中。</block>
+  <block id="b7c67692dc38dca98edc62b4b29f83d8" category="admonition">如果您在多个 Google Cloud 项目中拥有订阅和卷，则需要对每个项目执行此任务。</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">开始之前</block>
+  <block id="107a414e0bf62dc36bb6bbde7bcd19de" category="paragraph">为每个项目添加订阅时，您必须具有以下信息：</block>
+  <block id="61d55eb42b926e824d916fc29d4b2127" category="list-text">服务帐户凭据（您下载的 JSON 专用密钥）</block>
+  <block id="7adea0d9c77aabccd8bb67ae0a832d59" category="list-text">项目名称</block>
+  <block id="520851e11d4657fa15ed8a11da0eec00" category="list-text">从BlueXP导航菜单中、选择*存储&gt;画布*。</block>
+  <block id="919909054e594ea2b451faaaf9bdfd5d" category="list-text">在 Canvas 页面上，选择 *添加工作环境*，然后选择 *Google Cloud Platform*。</block>
+  <block id="e9a7e0b26f41400660614defd78195f2" category="list-text">在 *Google Cloud Netapp Volumes* 旁边，选择 *Discover*。</block>
+  <block id="7c14b79a004cd03beb355cf7f4bed919" category="list-text">提供有关您的NetApp Volumes 订阅的信息：</block>
+  <block id="620a619e5abf90904f8bd9148673563f" category="list-text">输入要使用的工作环境名称。</block>
+  <block id="56bab707c78784ba9b87a1e53b01fb02" category="list-text">复制 / 粘贴您在上述步骤中下载的 JSON 专用密钥。</block>
+  <block id="7544f205c012f616ca0cc93fa7af717b" category="list-text">选择*应用凭据*。</block>
+  <block id="98061d4b41ea7e9a2f4ca7bbd84f29b8" category="list-text">选择 Google Cloud 项目的名称。</block>
+  <block id="ddb5df42c78f2cbb5e110cc3a1e67a99" category="list-text">选择要创建工作环境的区域。该区域必须是Google Cloud NetApp Volumes支持的区域之一。</block>
+  <block id="6717014f0e48b7ab08c9846925b42c93" category="list-text">选择*发现*。</block>
+  <block id="4f89df11c9b6b2ee89c887a99d93c72b" category="inline-image-macro">添加Google Cloud NetApp Volumes订阅凭证的屏幕截图。</block>
+  <block id="d7439065551300ab23be3871e7bbaff4" category="paragraph"><block ref="d7439065551300ab23be3871e7bbaff4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">结果</block>
+  <block id="14e54ad50d3b5454d83760e6f5178795" category="paragraph">BlueXP显示您的Google Cloud NetApp Volumes工作环境。</block>
+  <block id="9c419fde324155910559b002c5f64fe5" category="inline-image-macro">Google Cloud NetApp Volumes Service 工作环境的屏幕截图。</block>
+  <block id="fc2c0288afa101e1e4bd70a28971f3dc" category="paragraph"><block ref="fc2c0288afa101e1e4bd70a28971f3dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="58eaebf972358f1cf03d386a4ade1a0f" category="paragraph-title">下一步是什么？</block>
+  <block id="a5e8cc908ae1a699aac38d94a8191749" category="inline-link-macro">查看您的卷</block>
+  <block id="a61478a0e30e48b7d57fdb9d04d7786f" category="paragraph"><block ref="63c313849b46036fdbb935ff958cbabb" category="inline-link-macro-rx"></block>(英文)</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp通过多种方式为BlueXP提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">获取帮助</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp通过多种方式为BlueXP及其云服务提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">获得云提供商文件服务支持</block>
+  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">适用于 ONTAP 的 Amazon FSX</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">适用于 Google Cloud 的 Cloud Volumes Service</block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">要获得针对BlueXP及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自助支持选项</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">这些选项每周 7 天，每天 24 小时免费提供：</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文档</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您当前正在查看的BlueXP文档。</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知识库</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">搜索BlueXP知识库、查找有助于解决问题的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社区</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">加入BlueXP社区、关注正在进行的讨论或创建新的讨论。</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">向NetApp支持部门创建案例</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述自助支持选项之外、您还可以在激活支持后与NetApp支持专家合作解决任何问题。</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">开始之前</block>
+  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">了解如何管理与BlueXP登录关联的凭据</block>
+  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">要使用*创建案例*功能，您必须先将NetApp支持站点凭据与您的BlueXP  登录名关联起来。<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>(英文)</block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">如果您为具有序列号的ONTAP系统创建案例、则您的NSS帐户必须与该系统的序列号相关联。</block>
+  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">在BlueXP中、选择*帮助&gt;支持*。</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在*资源*页面上、在技术支持下选择一个可用选项：</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">如果您想通过电话与某人通话，请选择*呼叫我们*。系统会将您定向到netapp.com上的一个页面、其中列出了您可以拨打的电话号码。</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">选择*创建案例*向NetApp支持专家开立TT：</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*服务*：选择与问题描述 关联的服务。例如、当特定于技术支持问题描述 时、如果服务中包含工作流或功能、则为BlueXP。</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*工作环境*：如果适用于存储、请选择* Cloud Volumes ONTAP *或* on-Prem*、然后选择关联的工作环境。</block>
+  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">工作环境列表位于您在服务顶部横幅中选择的BlueXP  组织(或帐户)、项目(或工作空间)和连接器的范围内。</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例优先级*：选择案例的优先级、可以是"低"、"中"、"高"或"严重"。</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">要了解有关这些优先级的更多详细信息、请将鼠标悬停在字段名称旁边的信息图标上。</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*问题描述 *：提供问题的详细问题描述 、包括任何适用的错误消息或您执行的故障排除步骤。</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*其他电子邮件地址*：如果您希望其他人了解此问题描述 、请输入其他电子邮件地址。</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件(可选)*：一次最多上传五个附件。</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每个文件的附件数限制为25 MB。支持以下文件扩展名：txt、log、pdf、jp6/jpeu、rtf、 doc/docx、xls/xlsx和csv。</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">创建案例表的屏幕截图、可用于向NetApp支持部门创建案例。</block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">此时将显示一个弹出窗口、其中包含您的支持案例编号。NetApp支持专家将审核您的案例、并尽快与您联系。</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">要查看支持案例的历史记录，您可以选择*设置&gt;时间线*并查找名为“创建支持案例”的操作。最右侧的按钮可用于展开操作以查看详细信息。</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">尝试创建案例时、您可能会遇到以下错误消息：</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您无权针对选定服务创建案例"</block>
+  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此错误可能意味着NSS帐户及其关联的记录公司与BlueXP帐户序列号(即960xxxx)或工作环境序列号。您可以使用以下选项之一寻求帮助：</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用产品内聊天功能</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">请通过提交非技术案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">管理支持案例(预览)</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">您可以直接从BlueXP查看和管理活动的和已解决的支持案例。您可以管理与您的NSS帐户和公司关联的案例。</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">案例管理以预览形式提供。我们计划改进此体验、并在即将发布的版本中添加增强功能。请通过产品内聊天向我们发送反馈。</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">请注意以下事项：</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">页面顶部的案例管理信息板提供了两个视图：</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">左侧视图显示了您提供的用户NSS帐户在过去3个月内打开的案例总数。</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">右侧视图显示了过去3个月内根据用户NSS帐户在公司级别开立的案例总数。</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">此表中的结果反映了与选定视图相关的案例。</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">您可以添加或删除感兴趣的列、也可以筛选优先级和状态等列的内容。其他列仅提供排序功能。</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">有关更多详细信息、请查看以下步骤。</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">在每个案例级别、我们可以更新案例备注或关闭尚未处于"已关闭"或"待关闭"状态的案例。</block>
+  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">选择*案例管理*，如果出现提示，请将您的NSS帐户添加到BlueXP。</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">"*案例管理*"页面显示了与您的BlueXP用户帐户关联的NSS帐户相关的已打开案例。此NSS帐户与* NSS管理*页面顶部显示的NSS帐户相同。</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">也可以修改表中显示的信息：</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">在“*组织案例*”下，选择“*查看*”以查看与贵公司关联的所有案例。</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">通过选择确切的日期范围或选择其他时间范围来修改日期范围。</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">案例管理页面上表上方选项的屏幕截图、可用于选择确切的日期范围或过去7天、30天或3个月。</block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">筛选列的内容。</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">"状态"列中筛选选项的屏幕截图、可用于筛选与特定状态(如"活动"或"已关闭")匹配的案例。</block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">表中显示的加号图标</block>
+  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">通过选择并选择要显示的列来更改表中 <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> 显示的列。</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">显示可在表中显示的列的屏幕截图。</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">包含三个点的图标、显示在表的最后一列中</block>
+  <block id="348552521b849746260fe8d296d34c15" category="list-text">通过选择并选择一个可用选项来管理现有案例 <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> ：</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*查看案例*：查看有关特定案例的完整详细信息。</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例注释*：提供有关您的问题的更多详细信息、或者选择*上传文件*最多附加五个文件。</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*关闭案例*：提供关闭案例的详细原因，然后选择*关闭案例*。</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">屏幕截图、显示在表的最后一列中选择菜单后可以执行的操作。</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="43bc48df07f815e5a7e77e389dc5e144" category="summary">设置工作环境后，您可以查看您的 Google Cloud NetApp卷。</block>
+  <block id="9038e7cfcfe9bb9df9afd31371070be8" category="doc">管理现有卷</block>
+  <block id="182a9bef86de098b538c3c82dd415b3d" category="paragraph">您可以查看现有卷以及对其执行的任何操作。</block>
+  <block id="34397c830c77af93d96e3ed470658d45" category="inline-link">了解所有服务的 BlueXP 访问角色</block>
+  <block id="550f7f32caa2fb3ff690575cc1e16bc4" category="paragraph">*必需的BlueXP角色* 组织管理员、文件夹或项目管理员，或Google Cloud NetApp Volumes管理员角色。 <block ref="c46fcff617e849cb6f8ded33051f7905" category="inline-link-rx"></block> 。</block>
+  <block id="6b3c1595afc04f7a21a3249b677c0c9b" category="section-title">查看卷</block>
+  <block id="d8b95942b7e9bb5d3cc343df186da406" category="paragraph">查看卷的详细信息，例如其名称、数量、区域、容量、已用容量和存储池。</block>
+  <block id="d5abb66e090486d392fc5a9d4cce9814" category="list-text">点击*进入工作环境*打开工作环境。</block>
+  <block id="6a9903314020e84e3af325216666825e" category="inline-image-macro">包含三个点的图标。</block>
+  <block id="cf5e847abc106ecce002b46d81044538" category="list-text">要查看表中的特定卷，请选择<block ref="c412b684754967f281dffff60ff69943" category="inline-image-macro-rx" type="image"></block>并输入卷名称。</block>
+  <block id="b1f3a5c440e03103b0c9015c07ed0338" category="list-text">要查看与卷相关的任何标签，请在“*标签*”列中选择“*查看*”。</block>
+  <block id="8079381bd4c287bba6c52f9e612572d6" category="section-title">查看审核日志</block>
+  <block id="042f0d2136855bcd9717a113dbfba91f" category="paragraph">您可以在时间线中查看对卷执行的所有操作。</block>
+  <block id="e1692ccd3e52bad8f6fe6ee2bc3bfa14" category="list-text">在右上角，选择*设置* &gt; *时间线*。</block>
+  <block id="4e86398dd959a1b1f62fff6ab6207875" category="paragraph">在*审计日志*表中，您可以查看对卷执行的任何操作。</block>
+  <block id="64cf10967d4bf7086ce7103ee9deab01" category="summary">通过设置 Google Cloud 然后创建工作环境来开始使用Google Cloud NetApp Volumes 。</block>
+  <block id="65ce4dce26160be29539699c6623e379" category="doc">入门工作流</block>
+  <block id="0b61b5e8ca93a3e0642dd139f9d3e597" category="paragraph">通过设置 Google Cloud，然后创建工作环境来开始使用Google Cloud NetApp Volumes 。</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">一个</block>
+  <block id="77cb49dd0e189cd2b264b8acf283654d" category="inline-link-macro">设置Google Cloud NetApp Volumes</block>
+  <block id="aabf26ebaf076d5d9a7111d4e0bc4cae" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> <block ref="eea1a4cfc6828b367997af0d6bacca69" category="inline-link-macro-rx"></block></block>
+  <block id="91b07957ce4b7cb970c3aaa153fddf0c" category="paragraph">从 Google 创建一个服务帐户。</block>
+  <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">两个</block>
+  <block id="2f3fa0d82b47eba08fd4b940c90cbea8" category="inline-link-macro">添加工作环境</block>
+  <block id="b08d8c92b08f587e5d1b7e0d6819ce77" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> <block ref="d4ec77f4c725ead9265b60c45491b574" category="inline-link-macro-rx"></block></block>
+  <block id="7d52bf4468adcc100cfc582489a8a230" category="paragraph">从BlueXP中，单击 *添加工作环境* &gt; *Google Cloud Platform* &gt; * Google Cloud NetApp Volumes* &gt; *发现*，然后提供有关服务帐户和 Google Cloud 项目的详细信息。</block>
+  <block id="6c5416b684f5dd6d9602dabcc6ee84a8" category="summary">您可以从BlueXP中移除 Google Cloud 订阅的Google Cloud NetApp Volumes及其所有现有卷。此操作会从BlueXP中移除Google Cloud NetApp Volumes 。此操作不会删除您的Google Cloud NetApp Volumes帐户或卷。您可以随时将Google Cloud NetApp Volumes添加回BlueXP 。</block>
+  <block id="a2a38c6cf86f53a69a9cd6b4d3dd9496" category="doc">从BlueXP中删除Google Cloud NetApp Volumes</block>
+  <block id="35d165d9ed7e66d8c34f594326b8e4fd" category="paragraph">您可以从BlueXP中移除Google Cloud NetApp Volumes订阅和所有现有卷。这些卷不会被删除，而是会从BlueXP内的所有项目中删除，并且以后可以重新发现。</block>
+  <block id="1c8d8bb96f91cab1eb47b0ca6a70eb37" category="admonition">您无法从BlueXP中删除Google Cloud NetApp Volumes。请使用 Google Cloud Console 执行此操作。</block>
+  <block id="6c970f68c7cf5a446d127ac3ab6d72f7" category="list-text">打开工作环境。</block>
+  <block id="7f4b4166bc4f213b491a78294c38f4f3" category="list-text">点击<block ref="8891ca04a345a35bd7da25d57718d9b7" category="inline-image-macro-rx" type="image"></block>页面顶部的按钮，然后单击*删除*。</block>
+  <block id="2870f7f810e8d5981882070cd803bbd5" category="summary">BlueXP需要通过 Google Cloud 服务帐户访问Google Cloud NetApp Volumes API 并获得正确的权限。</block>
+  <block id="635d606b676b3f92a6204c15ecb1d666" category="paragraph">BlueXP需要通过 Google Cloud 服务帐户获得正确的权限。</block>
+  <block id="ec8725380aa2f688c9b9d45557c44600" category="section-title">设置服务帐户</block>
+  <block id="b87ecb1d933b8e5835c8e93327f7676e" category="paragraph">完成以下任务、以便BlueXP能够访问您的Google Cloud项目：</block>
+  <block id="cb939d621f46e6895da8fb3a52fbcf83" category="list-text">创建新的服务帐户</block>
+  <block id="172cabf35e2da2e485725633d4544c4b" category="list-text">将新服务帐户成员添加到项目中并为其分配特定角色（权限）</block>
+  <block id="b8da17ea9f82689a4cc87ac02b337328" category="list-text">为用于向 Google 进行身份验证的服务帐户创建并下载密钥对</block>
+  <block id="ab6fcc124e86604f6bab5da13aaea51a" category="inline-link">转到服务帐户页面</block>
+  <block id="7dc4b63dc4834aecd751b91ed3de3d39" category="list-text">在 Google Cloud 控制台中， <block ref="72863ecd427c906452e0c3d21111bdac" category="inline-link-rx"></block> 。</block>
+  <block id="e4ca5adc5a86c098ce9d6bd2f42dc178" category="list-text">单击 * 选择一个项目 * ，选择您的项目，然后单击 * 打开 * 。</block>
+  <block id="bdac2dc9c1216cbabea4f0c3c6dbd7eb" category="list-text">单击 * 创建服务帐户 * 。</block>
+  <block id="81c36eb6a7aa6110855ae09fd80381ab" category="list-text">输入服务帐户名称（友好显示名称）和问题描述。</block>
+  <block id="66335d9ae4276106da10a758c0c3c8b7" category="paragraph">Cloud Console 会根据此名称生成服务帐户 ID 。根据需要编辑 ID —您不能稍后更改此 ID 。</block>
+  <block id="8971b16610cb4efa4b6c83e3ad176094" category="list-text">要立即设置访问控制，请单击页面底部的 * 创建 * ，然后单击 * 完成 * ，继续执行下一步。</block>
+  <block id="4bd66ea95ac91bc82cdc097c3614f96c" category="list-text">在 _IAM 页面中，单击 * 添加 * 并填写 _ 添加成员 _ 页面中的字段：</block>
+  <block id="8d549e601fd570fd51b0bddb07a08462" category="list-text">在新成员字段中、输入完整服务帐户ID。</block>
+  <block id="1d172c52399b8bfd31a6c902f515b82d" category="paragraph">例如：\user1-service-account-gcnv@project1.iam.gserviceaccount.com</block>
+  <block id="e6915ea331526f7f3221d5b019733157" category="list-text">添加以下角色：</block>
+  <block id="ea34dd9c3c884049d43a2ee08126a1e2" category="list-text">_NetApp Cloud Volumes Admin_</block>
+  <block id="a69f1e2412a22a1f3153b3553fb2a1d1" category="list-text">计算网络查看器 _</block>
+  <block id="4cc186df234138a57b2e8c5d8e5f7f8d" category="list-text">单击 * 保存 * 。</block>
+  <block id="1baa368f450d37450a1cb47c6b7dd320" category="list-text">单击服务帐户名称，然后从 _Service 帐户详细信息 _ 页面中，单击 * 添加密钥 &gt; 创建新密钥 * 。</block>
+  <block id="744132d4bfa3718f3315f6d3187cba60" category="list-text">选择 * JSON* 作为密钥类型，然后单击 * 创建 * 。</block>
+  <block id="ef17d662e8cfc44a88102effe9136080" category="paragraph">单击 * 创建 * 将生成新的公共 / 私有密钥对并将其下载到系统中。它是私钥的唯一副本。请安全地存储此文件，因为它可用于作为您的服务帐户进行身份验证。</block>
+  <block id="0eff7de92af8c65ac32bf20be9393a92" category="paragraph">有关详细步骤，请参见 Google Cloud 文档：</block>
+  <block id="7ef475b3aa654a4c77b576b7b693b979" category="inline-link-macro">创建和管理服务帐户</block>
+  <block id="fc4ab4403cd96c67fe73442b8080f683" category="list-text"><block ref="fc4ab4403cd96c67fe73442b8080f683" category="inline-link-macro-rx"></block></block>
+  <block id="b666e33c85ae74bc39da9e25479b2d5b" category="inline-link-macro">授予，更改和撤消对资源的访问权限</block>
+  <block id="543336bbad88b5d4f6aab813afbcd38f" category="list-text"><block ref="543336bbad88b5d4f6aab813afbcd38f" category="inline-link-macro-rx"></block></block>
+  <block id="17337f696c024b9e31f4396f97e2d0b0" category="inline-link-macro">创建和管理服务帐户密钥</block>
+  <block id="29d3428cb13e4cac2f40807938da5dc8" category="list-text"><block ref="29d3428cb13e4cac2f40807938da5dc8" category="inline-link-macro-rx"></block></block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">在向NetApp技术支持部门创建支持案例之前、您需要向BlueXP添加一个NetApp 支持站点 帐户、然后注册获取支持。</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">注册以获得支持</block>
+  <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">要获得BlueXP及其存储解决方案和服务的特定技术支持、需要注册支持。要为Cloud Volumes ONTAP系统启用关键工作流、还需要注册支持服务。</block>
+  <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">注册获取支持不会为云提供商文件服务启用NetApp支持。有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支持注册概述</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">激活支持授权有两种形式的注册：</block>
+  <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">注册BlueXP  帐户序列号(20位960xxxxxxxxx序列号位于BlueXP  的支持资源页面)。</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">这是您在BlueXP中使用的任何服务的单一支持订阅ID。必须注册每个BlueXP帐户级别的支持订阅。</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在云提供商的市场中注册与订阅关联的Cloud Volumes ONTAP 序列号(即20位909201xxxxxxxx序列号)。</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">这些序列号通常称为_PAYGO序列号、并由BlueXP在部署Cloud Volumes ONTAP 时生成。</block>
+  <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">注册这两种类型的序列号可实现打开支持服务单和自动生成案例等功能。要完成注册、请按如下所述将NetApp 支持站点(NSS)帐户添加到BlueXP中。</block>
+  <block id="444b74bc81e823cc1c4c704219ad8ed3" category="section-title">注册BlueXP  以获得NetApp支持</block>
+  <block id="b3bf31f8a918c712f26cdf493a908825" category="paragraph">要注册支持并激活支持授权、您的BlueXP  组织中的一个用户(或帐户)必须将NetApp支持站点帐户与其BlueXP  登录名关联。如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">具有NSS帐户的现有客户</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">如果您是拥有NSS帐户的NetApp客户、则只需通过BlueXP注册支持即可。</block>
+  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">在BlueXP控制台的右上角、选择设置图标、然后选择*凭据*。</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">选择*用户凭据*。</block>
+  <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">选择*添加NSS凭证*，然后按照NetApp 支持站点(NSS)鉴定提示进行操作。</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">要确认注册过程是否成功，请选择帮助图标，然后选择*Support*。</block>
+  <block id="2ba7f9eae7a02f9c3ac0fc07517d1c48" category="paragraph">“资源”页面应显示您的BlueXP  组织已注册支持。</block>
+  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">屏幕截图、显示帐户序列号、绿色复选框以及注册支持的文本。</block>
+  <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c05e530d1466e986d570cfe3f92656c3" category="paragraph">请注意、其他BlueXP用户如果没有将NetApp 支持站点 帐户与其BlueXP登录关联、则不会看到此相同的支持注册状态。但是、这并不意味着您的BlueXP  组织未注册支持。只要组织中有一个用户执行了这些步骤、您的组织就已注册。</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">现有客户、但无NSS帐户</block>
+  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">如果您是现有许可证和序列号但拥有_no_ nss帐户的现有NetApp客户、则需要创建一个NSS帐户并将其与BlueXP登录关联。</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp 支持站点 用户注册表</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">完成以创建NetApp支持站点帐户<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">请务必选择适当的用户级别、通常为* NetApp客户/最终用户*。</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">请务必复制上面用于序列号字段的BlueXP帐户序列号(960xxxx)。这样可以加快帐户处理速度。</block>
+  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">通过完成下的步骤，将新的NSS帐户与BlueXP登录相关联 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp的新品牌</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客户、并且没有NSS帐户、请按照以下每个步骤进行操作。</block>
+  <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">在BlueXP控制台的右上角、选择帮助图标、然后选择*支持*。</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">帮助菜单的屏幕截图，其中列出的第一个选项为支持</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">从支持注册页面找到您的帐户ID序列号。</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支持注册站点</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">导航到<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 并选择*我不是NetApp的注册客户*。</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填写必填字段(带有红色星号的字段)。</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*产品线*字段中、选择*云管理器*、然后选择适用的计费提供商。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">复制上述第2步中的帐户序列号、完成安全检查、然后确认您已阅读NetApp的全球数据隐私政策。</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系统会立即向提供的邮箱发送一封电子邮件、以完成此安全事务。如果验证电子邮件未在几分钟内收到、请务必检查您的垃圾邮件文件夹。</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">在电子邮件中确认操作。</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">确认将向NetApp提交您的请求、并建议您创建NetApp 支持站点 帐户。</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">请务必复制上面用于序列号字段的帐户序列号(960xxxx)。这将加快处理速度。</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此过程中、NetApp应与您联系。这是针对新用户的一次性入职练习。</block>
+  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">拥有NetApp支持站点帐户后，请完成下的步骤，将该帐户与BlueXP登录相关联 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">关联Cloud Volumes ONTAP支持的NSS凭据</block>
+  <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">要为Cloud Volumes ONTAP启用以下关键工作流、需要将NetApp支持站点凭据与您的BlueXP  组织相关联：</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">注册按需购买Cloud Volumes ONTAP系统以获得支持</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">要激活对系统的支持并访问 NetApp 技术支持资源，需要提供 NSS 帐户。</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">自带许可证时部署Cloud Volumes ONTAP (BYOL)</block>
+  <block id="2ebfeabed40c2270d9fa8325080a4b3e" category="paragraph">需要提供您的NSS帐户、以便BlueXP可以上传您的许可证密钥并为您购买的期限启用订阅。这包括自动更新期限续订。</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">将Cloud Volumes ONTAP 软件升级到最新版本</block>
+  <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">将NSS凭据与您的BlueXP  组织相关联与与与BlueXP  用户登录相关联的NSS帐户不同。</block>
+  <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">这些NSS凭据与您的特定BlueXP  组织ID相关联。属于BlueXP  组织的用户可以从*Support &gt; NSS Management*访问这些凭据。</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您拥有客户级别的帐户、则可以添加一个或多个NSS帐户。</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您拥有合作伙伴或经销商帐户、则可以添加一个或多个NSS帐户、但不能将其与客户级别的帐户同时添加。</block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">选择* NSS管理&gt;添加NSS帐户*。</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">出现提示时、选择*继续*以重定向到Microsoft登录页面。</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp使用Microsoft Entra ID作为特定于支持和许可的身份验证服务的身份提供程序。</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登录页面上，提供 NetApp 支持站点注册的电子邮件地址和密码以执行身份验证过程。</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">通过这些操作、BlueXP可以使用您的NSS帐户执行许可证下载、软件升级验证和未来支持注册等操作。</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS帐户必须是客户级别的帐户(而不是来宾或临时帐户)。您可以拥有多个客户级别的NSS帐户。</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">如果此帐户是合作伙伴级别的帐户、则只能有一个NSS帐户。如果您尝试添加客户级别的NSS帐户、并且存在合作伙伴级别的帐户、则会收到以下错误消息：</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">"此帐户不允许使用NSS客户类型、因为已存在不同类型的NSS用户。"</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">如果您已有客户级别的NSS帐户、并尝试添加合作伙伴级别的帐户、则也是如此。</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">成功登录后、NetApp将存储NSS用户名。</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">由三个水平点组成的图标</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在*NSS Management*页上，您可以从菜单中显示您的电子邮件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 。</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要刷新登录凭据令牌，菜单中也有一个*更新凭据*选项 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 。</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此选项将提示您重新登录。请注意、这些帐户的令牌将在90天后过期。系统将发布通知、提醒您注意这一点。</block>
+  <block id="97343788a93c5fefbf484b4b95a3e355" category="summary">了解BlueXP中Google Cloud NetApp Volumes支持的新功能。</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
+  <block id="6bf86021a24fd009a31d432250a9ad20" category="section-title">2025年7月21日</block>
+  <block id="d086d2dfc2b17966eba63ec5f61edcc6" category="sidebar">Google Cloud NetApp Volumes使企业能够将其性能密集型、延迟敏感的核心业务关键型应用程序迁移到 Google 并运行，而无需针对云进行重构。本文档介绍了如何使用NetApp BlueXP设置和管理Google Cloud NetApp Volumes 。</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">快速入门</block>
+  <block id="11fc1a6248b661c1127bde02baf33747" category="sidebar">使用Google Cloud NetApp Volumes</block>
+  <block id="e2439a8512b353f75391ba9c346bc84d" category="sidebar">管理卷</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">博客和社区</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
+  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP博客</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp卷</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="40b96cc305f26bed96812c2920065f5d" category="sidebar">设置 Google Cloud</block>
+  <block id="f6c5aff43e91755ba26b1cc527f1f13e" category="sidebar">删除Google Cloud NetApp Volumes</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
+</blocks>
