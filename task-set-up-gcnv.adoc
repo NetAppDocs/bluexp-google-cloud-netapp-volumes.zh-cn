@@ -44,8 +44,8 @@ Cloud Console 会根据此名称生成服务帐户 ID 。根据需要编辑 ID �
 
 .. 添加以下角色：
 +
-*** _NetApp Cloud Volumes Admin_
-*** 计算网络查看器 _
+*** Google Cloud NetApp卷管理员
+*** _Google Cloud NetApp查看器_
 
 
 .. 单击 * 保存 * 。
@@ -60,6 +60,7 @@ Cloud Console 会根据此名称生成服务帐户 ID 。根据需要编辑 ID �
 
 有关详细步骤，请参见 Google Cloud 文档：
 
+* link:https://cloud.google.com/iam/docs/roles-permissions/netapp["Google Cloud NetApp Volumes角色和权限"^]
 * link:https://cloud.google.com/iam/docs/creating-managing-service-accounts["创建和管理服务帐户"^]
 * link:https://cloud.google.com/iam/docs/granting-changing-revoking-access["授予，更改和撤消对资源的访问权限"^]
 * link:https://cloud.google.com/iam/docs/creating-managing-service-account-keys["创建和管理服务帐户密钥"^]
