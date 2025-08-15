@@ -197,9 +197,6 @@
   <block id="635d606b676b3f92a6204c15ecb1d666" category="paragraph">BlueXP需要通过 Google Cloud 服务帐户获得正确的权限。</block>
   <block id="ec8725380aa2f688c9b9d45557c44600" category="section-title">设置服务帐户</block>
   <block id="b87ecb1d933b8e5835c8e93327f7676e" category="paragraph">完成以下任务、以便BlueXP能够访问您的Google Cloud项目：</block>
-  <block id="cb939d621f46e6895da8fb3a52fbcf83" category="list-text">创建新的服务帐户</block>
-  <block id="172cabf35e2da2e485725633d4544c4b" category="list-text">将新服务帐户成员添加到项目中并为其分配特定角色（权限）</block>
-  <block id="b8da17ea9f82689a4cc87ac02b337328" category="list-text">为用于向 Google 进行身份验证的服务帐户创建并下载密钥对</block>
   <block id="ab6fcc124e86604f6bab5da13aaea51a" category="inline-link">转到服务帐户页面</block>
   <block id="7dc4b63dc4834aecd751b91ed3de3d39" category="list-text">在 Google Cloud 控制台中， <block ref="72863ecd427c906452e0c3d21111bdac" category="inline-link-rx"></block> 。</block>
   <block id="e4ca5adc5a86c098ce9d6bd2f42dc178" category="list-text">单击 * 选择一个项目 * ，选择您的项目，然后单击 * 打开 * 。</block>
@@ -210,7 +207,6 @@
   <block id="4bd66ea95ac91bc82cdc097c3614f96c" category="list-text">在 _IAM 页面中，单击 * 添加 * 并填写 _ 添加成员 _ 页面中的字段：</block>
   <block id="8d549e601fd570fd51b0bddb07a08462" category="list-text">在新成员字段中、输入完整服务帐户ID。</block>
   <block id="1d172c52399b8bfd31a6c902f515b82d" category="paragraph">例如：\user1-service-account-gcnv@project1.iam.gserviceaccount.com</block>
-  <block id="e6915ea331526f7f3221d5b019733157" category="list-text">添加以下角色：</block>
   <block id="4cc186df234138a57b2e8c5d8e5f7f8d" category="list-text">单击 * 保存 * 。</block>
   <block id="1baa368f450d37450a1cb47c6b7dd320" category="list-text">单击服务帐户名称，然后从 _Service 帐户详细信息 _ 页面中，单击 * 添加密钥 &gt; 创建新密钥 * 。</block>
   <block id="744132d4bfa3718f3315f6d3187cba60" category="list-text">选择 * JSON* 作为密钥类型，然后单击 * 创建 * 。</block>
@@ -313,10 +309,15 @@
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp以多种方式为BlueXP及其云服务提供支持。我们提供全天候 (24/7) 的大量免费自助支持选项，例如知识库 (KB) 文章和社区论坛。您的支持注册包含通过网络工单获取的远程技术支持。</block>
   <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
-  <block id="a7c3b0d14336dd0504cb500448a6af93" category="list-text">Google Cloud NetApp卷管理员</block>
-  <block id="9e772ef6b5ccecb14c212b186c0c7314" category="list-text">_Google Cloud NetApp查看器_</block>
   <block id="c1dba337436d468a67c1c9656a885d2a" category="inline-link-macro">Google Cloud NetApp Volumes角色和权限</block>
   <block id="d25ce7990f7fb194c21d862125556340" category="list-text"><block ref="d25ce7990f7fb194c21d862125556340" category="inline-link-macro-rx"></block></block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">屏幕截图显示了帐户序列号、绿色复选框和文本“已注册支持”。</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2029481d0277679de049fed89280e080" category="list-text">如果您还没有服务帐户，请创建一个新的。</block>
+  <block id="6e894315b1b31d63ff57c4e16a459889" category="list-text">将服务帐户成员添加到您的项目并为其分配特定的角色（权限）。</block>
+  <block id="4c32d215a32f06bbc02ceaeed3828a5b" category="list-text">为用于向 Google 进行身份验证的服务帐户创建并下载密钥对。</block>
+  <block id="b721bffff3c288c0d6fe62dae9a7f5cb" category="list-text">（可选）要创建服务帐户，请执行以下操作：</block>
+  <block id="0a2be9e155b7a35429d8207201437a43" category="list-text">添加以下角色之一：</block>
+  <block id="af76aae9134ddcda5d6f5f3c80e43816" category="list-text">_Google Cloud NetApp Volumes Admin_ 或</block>
+  <block id="583f7e9208c61bd50e0d1e4d972cecda" category="list-text">Google Cloud NetApp卷查看器</block>
 </blocks>
